@@ -8,3 +8,5 @@ host, api.openai.com, OpenAI
 host, cdn.openai.com, OpenAI
 host, openaiapi-site.azureedge.net, OpenAI
 host-keyword, openai, OpenAI
+host, plw.jiancent.com, OpenAI
+#host, www.like996.icu, OpenAI
