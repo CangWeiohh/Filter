@@ -108,7 +108,7 @@ host, adobedc.demdex.net, Adobe
 host, adobeid-na1.services.adobe.com, Adobe
 host, assets.adobedtm.com, Adobe
 host, auth-cloudfront.prod.ims.adobejanus.com, Adobe
-host, auth.services.adobe.com, Adobe
+#host, auth.services.adobe.com, Adobe
 host, cai-splunk-proxy.adobe.io, Adobe
 host, cc-cdn.adobe.com, Adobe
 host, cc-cdn.adobe.com.edgekey.net, Adobe
