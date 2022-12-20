@@ -105,7 +105,7 @@ host, adobe-dns-01.adobe.com, Adobe
 host, adobe.demdex.net, Adobe
 host, adobe.tt.omtrdc.net, Adobe
 host, adobedc.demdex.net, Adobe
-host, adobeid-na1.services.adobe.com, Adobe
+#host, adobeid-na1.services.adobe.com, Adobe
 host, assets.adobedtm.com, Adobe
 host, auth-cloudfront.prod.ims.adobejanus.com, Adobe
 #host, auth.services.adobe.com, Adobe
