@@ -14,5 +14,5 @@ host, beacons2.gvt2.com, OpenAI
 host, beacons3.gvt2.com, OpenAI
 host, beacons4.gvt2.com, OpenAI
 
-host, plw.jiancent.com, OpenAI
-host, www.like996.icu, OpenAI
+#host, plw.jiancent.com, OpenAI
+#host, www.like996.icu, OpenAI
