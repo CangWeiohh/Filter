@@ -7,12 +7,12 @@ host, cdn.openai.com, OpenAI
 host, cdn.auth0.com, OpenAI
 host, openaiapi-site.azureedge.net, OpenAI
 
-host-suffix, gvt2.com, OpenAI
-host, beacons.gcp.gvt2.com, OpenAI
-host, beacons.gvt2.com, OpenAI
-host, beacons2.gvt2.com, OpenAI
-host, beacons3.gvt2.com, OpenAI
-host, beacons4.gvt2.com, OpenAI
+#host-suffix, gvt2.com, OpenAI
+#host, beacons.gcp.gvt2.com, OpenAI
+#host, beacons.gvt2.com, OpenAI
+#host, beacons2.gvt2.com, OpenAI
+#host, beacons3.gvt2.com, OpenAI
+#host, beacons4.gvt2.com, OpenAI
 
 #host, plw.jiancent.com, OpenAI
 #host, www.like996.icu, OpenAI
