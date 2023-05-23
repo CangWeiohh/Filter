@@ -2,7 +2,6 @@ host, c.go-mpulse.net, Adobe
 host, api.demandbase.com, Adobe
 host, dpm.demdex.net, Adobe
 host, adobe.tt.omtrdc.net, Adobe
-host, lcs-cops.adobe.io, Adobe
 host, lcs-robs.adobe.io, Adobe
 host, hbrt.adobe.com, Adobe
 host, hbrt-or1-ext-vip.adobe.com, Adobe
@@ -120,7 +119,7 @@ host, crs.cr.adobe.com, Adobe
 host, edgeproxy-irl1.cloud.adobe.io, Adobe
 host, ethos.ethos02-prod-irl1.ethos.adobe.net, Adobe
 host, geo2.adobe.com, Adobe
-host, lcs-cops.adobe.io, Adobe
+#host, lcs-cops.adobe.io, Adobe
 host, pv2bqhsp36w.prod.cloud.adobe.io, Adobe
 host, services.prod.ims.adobejanus.com, Adobe
 host, ssl-delivery.adobe.com.edgekey.net, Adobe
