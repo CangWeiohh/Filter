@@ -1,3 +1,7 @@
+# 针对部分网站显示IP归属地的分流规则
+# anti-ip-attribution quantumultx.list v0.3.0 cb8a2caf552b9afbc1bb6213063a6efc02664e18
+# https://github.com/lwd-temp/anti-ip-attribution
+# QuantumultX分流规则
 DOMAIN-SUFFIX,biliapi.net,IP
 DOMAIN,api.bilibili.com,IP
 DOMAIN,api.bilibili.tv,IP
@@ -25,6 +29,12 @@ DOMAIN,fclog.baidu.com,IP
 DOMAIN,gsp0.baidu.com,IP
 DOMAIN,hm.baidu.com,IP
 DOMAIN,www.baidu.com,IP
+DOMAIN,tiebac.baidu.com,IP
+IP-CIDR,180.76.76.0/24,IP
+DOMAIN,httpsdns.baidu.com,IP
+DOMAIN,c.tieba.baidu.com,IP
+DOMAIN,httpdns.baidu.com,IP
+DOMAIN,httpdns.baidubce.com,IP
 DOMAIN,szshort.weixin.qq.com,IP
 DOMAIN,szextshort.weixin.qq.com,IP
 DOMAIN,szminorshort.weixin.qq.com,IP
@@ -39,6 +49,17 @@ DOMAIN-KEYWORD,normal-c-lq,IP
 DOMAIN-KEYWORD,normal-lq,IP
 DOMAIN-KEYWORD,search-quic-lq,IP
 DOMAIN-KEYWORD,search-lq,IP
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,ecombdapi.com,DIRECT
+DOMAIN-KEYWORD,-normal-hl,IP
+DOMAIN-KEYWORD,-normal-c-hl,IP
+DOMAIN-KEYWORD,-core-c-hl,IP
+DOMAIN-KEYWORD,-normal-lf,IP
+DOMAIN-KEYWORD,-normal-c-lf,IP
+DOMAIN-KEYWORD,-core-c-lf,IP
+DOMAIN,sso.douyin.com,IP
+DOMAIN,www.douyin.com,IP
+DOMAIN-SUFFIX,snssdk.com,IP
 DOMAIN-SUFFIX,toutiaoapi.com,IP
 DOMAIN-SUFFIX,gifshow.com,IP
 DOMAIN-SUFFIX,ksapisrv.com,IP
@@ -55,6 +76,8 @@ DOMAIN,god.gameyw.netease.com,IP
 DOMAIN-SUFFIX,huya.com,IP
 DOMAIN-SUFFIX,dongqiudi.com,IP
 DOMAIN,ngabbs.com,IP
+DOMAIN,bbs.nga.cn,IP
+DOMAIN,nga.178.com,IP
 DOMAIN,api.vip.miui.com,IP
 DOMAIN-SUFFIX,music.163.com,IP
 DOMAIN,nstool.netease.com,IP
@@ -96,3 +119,16 @@ DOMAIN-SUFFIX,img.douyucdn.cn,DIRECT
 DOMAIN-SUFFIX,douyucdn.cn,IP
 DOMAIN-SUFFIX,douyu.com,IP
 DOMAIN,bbs-api.mihoyo.com,IP
+DOMAIN,bbs-api.miyoushe.com,IP
+DOMAIN-SUFFIX,douban.com,IP
+IP-CIDR,49.233.242.15/32,IP
+IP-CIDR,81.70.124.99/32,IP
+IP-CIDR,81.70.125.19/32,IP
+IP-CIDR,140.143.177.206/32,IP
+DOMAIN,api.xiaoheihe.cn,IP
+DOMAIN,y.qq.com,DIRECT
+DOMAIN-SUFFIX,y.qq.com,IP
+DOMAIN,zonai.skland.com,IP
+DOMAIN,china-img.soulapp.cn,DIRECT
+DOMAIN,img.soulapp.cn,DIRECT
+DOMAIN-SUFFIX,soulapp.cn,IP
