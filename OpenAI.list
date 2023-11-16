@@ -1,19 +1,7 @@
-host, chat.openai.com, OpenAI
-host, auth0.openai.com, OpenAI
-host, api.openai.com, OpenAI
-host, cdn.openai.com, OpenAI
-host, openaiapi-site.azureedge.net, OpenAI
 host-keyword, openai, OpenAI
-host-suffix, openai.com, OpenAI
-
-#host, cdn.auth0.com, OpenAI
-
-#host-suffix, gvt2.com, OpenAI
-#host, beacons.gcp.gvt2.com, OpenAI
-#host, beacons.gvt2.com, OpenAI
-#host, beacons2.gvt2.com, OpenAI
-#host, beacons3.gvt2.com, OpenAI
-#host, beacons4.gvt2.com, OpenAI
-
-#host, plw.jiancent.com, OpenAI
-#host, www.like996.icu, OpenAI
+host-suffix , openai.com, OpenAI
+host, openaiapi-site.azureedge.net, OpenAI
+host-suffix , identrust.com, OpenAI
+host-suffix , auth0.com, OpenAI
+host-suffix , oaistatic.com, OpenAI
+host-suffix , oaiusercontent.com, OpenAI
