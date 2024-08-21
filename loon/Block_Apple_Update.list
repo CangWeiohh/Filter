@@ -10,8 +10,8 @@ DOMAIN, swdownload.apple.com
 DOMAIN, swscan.apple.com
 DOMAIN, swquery.apple.com
 DOMAIN, swpost.apple.com
-;DOMAIN, updates-http.cdn-apple.com
-;DOMAIN, updates.cdn-apple.com
+#DOMAIN, updates-http.cdn-apple.com
+#DOMAIN, updates.cdn-apple.com
 DOMAIN, xp.apple.com
 DOMAIN, iadsdk.apple.com
 DOMAIN, ads.internal.unity3d.com
