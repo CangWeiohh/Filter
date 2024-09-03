@@ -10,6 +10,7 @@ IP-CIDR,20.15.0.24/32,no-resolve
 IP-CIDR,20.15.0.25/32,no-resolve
 IP-CIDR,20.15.0.56/32,no-resolve
 IP-CIDR,20.15.0.95/32,no-resolve
+IP-CIDR,20.15.0.158/32,no-resolve
 # locale.temu.com
 IP-CIDR,20.124.48.109/32,no-resolve
 IP-CIDR,20.121.111.193/32,no-resolve
