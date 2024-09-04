@@ -16,6 +16,7 @@ IP-CIDR,20.124.48.109/32,no-resolve
 IP-CIDR,20.121.111.193/32,no-resolve
 IP-CIDR,20.83.139.214/32,no-resolve
 IP-CIDR,20.237.10.133/32,no-resolve
+IP-CIDR,20.231.255.10/32,no-resolve
 # us.temu.com
 IP-CIDR,20.33.55.2/32,no-resolve
 IP-CIDR,20.33.59.161/32,no-resolve
