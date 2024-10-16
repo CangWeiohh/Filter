@@ -127,5 +127,4 @@ DOMAIN, sstats.adobe.com
 DOMAIN, stls.adobe.com-cn.edgesuite.net
 DOMAIN, stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 DOMAIN, use-stls.adobe.com.edgesuite.net
-#DOMAIN-SUFFIX, adobe.io
-#DOMAIN-SUFFIX, adobelogin.com
+DOMAIN, 3d3wqt96ht.adobe.io
