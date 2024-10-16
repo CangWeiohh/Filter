@@ -104,7 +104,7 @@ DOMAIN, adobe-dns-01.adobe.com
 DOMAIN, adobe.demdex.net
 DOMAIN, adobe.tt.omtrdc.net
 DOMAIN, adobedc.demdex.net
-#DOMAIN, adobeid-na1.services.adobe.com
+DOMAIN, adobeid-na1.services.adobe.com
 DOMAIN, assets.adobedtm.com
 DOMAIN, auth-cloudfront.prod.ims.adobejanus.com
 #DOMAIN, auth.services.adobe.com
@@ -127,3 +127,5 @@ DOMAIN, sstats.adobe.com
 DOMAIN, stls.adobe.com-cn.edgesuite.net
 DOMAIN, stls.adobe.com-cn.edgesuite.net.globalredir.akadns.net
 DOMAIN, use-stls.adobe.com.edgesuite.net
+DOMAIN-SUFFIX, adobe.io
+DOMAIN-SUFFIX, adobelogin.com
