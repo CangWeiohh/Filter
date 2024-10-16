@@ -104,7 +104,7 @@ DOMAIN, adobe-dns-01.adobe.com
 DOMAIN, adobe.demdex.net
 DOMAIN, adobe.tt.omtrdc.net
 DOMAIN, adobedc.demdex.net
-DOMAIN, adobeid-na1.services.adobe.com
+#DOMAIN, adobeid-na1.services.adobe.com
 DOMAIN, assets.adobedtm.com
 DOMAIN, auth-cloudfront.prod.ims.adobejanus.com
 #DOMAIN, auth.services.adobe.com
