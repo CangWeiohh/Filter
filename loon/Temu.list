@@ -2,6 +2,7 @@
 DOMAIN-KEYWORD,temu
 DOMAIN-SUFFIX,temu.com
 DOMAIN,temu.com
+DOMAIN,temudebug.com
 DOMAIN-SUFFIX,kwcdn.com
 # temu.com
 IP-CIDR,20.15.0.9/32,no-resolve
